@@ -36,7 +36,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../de/dff/heap__sort__2_8c.html#a00cd944b33a5fe5972111ded9b49793c" target="_top" xlink:title="heapifyDown Adjusts new root to the correct position in the heap">
+<g id="a_node3"><a xlink:href="../../de/dff/heap__sort__2_8c.html#a00cd944b33a5fe5972111ded9b49793c" target="_top" xlink:title="heapifyDown Adjusts new root to the correct position in the heap This heapify procedure can be though...">
 <polygon fill="white" stroke="black" points="161,-76.5 161,-95.5 235,-95.5 235,-76.5 161,-76.5"/>
 <text text-anchor="middle" x="198" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">heapifyDown</text>
 </a>
@@ -66,7 +66,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="../../de/dff/heap__sort__2_8c.html#a619753b978f962aa2337e1fdb4e59e33" target="_top" xlink:title="heapifyUp Adjusts arr[i] to the correct position in the heap">
+<g id="a_node5"><a xlink:href="../../de/dff/heap__sort__2_8c.html#a619753b978f962aa2337e1fdb4e59e33" target="_top" xlink:title="heapifyUp Adjusts arr[i] to the correct position in the heap This heapify procedure can be thought of...">
 <polygon fill="white" stroke="black" points="167.5,-0.5 167.5,-19.5 228.5,-19.5 228.5,-0.5 167.5,-0.5"/>
 <text text-anchor="middle" x="198" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">heapifyUp</text>
 </a>
